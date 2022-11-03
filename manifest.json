@@ -1,6 +1,7 @@
 {
   "short_name": "React Shop",
   "name": "React Shop",
+  "homepage": "https://github.com/ioriqC/React-Shop",
   "icons": [
     {
       "src": "favicon.ico",
