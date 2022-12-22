@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ioriqC/React-Shop/static/css/main.ab8e109c.css",
-    "main.js": "/ioriqC/React-Shop/static/js/main.b2e61ca2.js",
-    "index.html": "/ioriqC/React-Shop/index.html",
-    "main.ab8e109c.css.map": "/ioriqC/React-Shop/static/css/main.ab8e109c.css.map",
-    "main.b2e61ca2.js.map": "/ioriqC/React-Shop/static/js/main.b2e61ca2.js.map"
+    "main.css": "/react-shop/static/css/main.ab8e109c.css",
+    "main.js": "/react-shop/static/js/main.b2e61ca2.js",
+    "index.html": "/react-shop/index.html",
+    "main.ab8e109c.css.map": "/react-shop/static/css/main.ab8e109c.css.map",
+    "main.b2e61ca2.js.map": "/react-shop/static/js/main.b2e61ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8e109c.css",
